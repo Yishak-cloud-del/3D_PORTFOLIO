@@ -51,14 +51,14 @@ const ShowcaseSection = () => {
                       {/* LEFT */}
                       <div className="first-project-wrapper" ref={project1Ref}>
                           <div className="image-wrapper">
-                              <img src="/images/project1.png" alt="Ryde" />
+                              <img src="/images/hasab1.png" alt="Ryde" />
                           </div>
                           <div className="text-content">
-                              <h2>On-Demand Rides Made Simple with a Powerful,
-                                  User-Friendly App Called Ryde</h2>
+                              <h2>A fast, user-friendly news app that delivers updates on demand</h2>
                               <p className="text-white-50 md:text-xl">
-                                  lorem ipsum app to do or not to do its Test for
-                                  my portfolio to be successfully
+                                  A fast and user-friendly news app that delivers updates on demand.
+                                  It ensures users stay informed anytime with a
+                                  smooth and simple reading experience.
                               </p>
                           </div>
                       </div>
@@ -69,7 +69,7 @@ const ShowcaseSection = () => {
                                   <img src="/images/project2.png" alt="Library Managment" />
 
                               </div>
-                              <h2>Library Management</h2>
+                              <h2>Pillow Web</h2>
                           </div>
                           <div className="project" ref={project3Ref}>
                               <div className="image-wrapper bg-[#ffe7eb]">

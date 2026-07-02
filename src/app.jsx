@@ -12,18 +12,17 @@ import Footer from "./sections/Footer.jsx";
 
 const App = () => {
   return (
-    <>
+    <div className="page-wrapper">
         <Navbar />
-      <Hero />
-      <ShowcaseSection />
+        <Hero />
+        <ShowcaseSection />
         <FeatureCards />
-        <ExperienceSection />
+
         <TechStack />
-        <Testimonials />
+
         <Contact />
         <Footer />
-
-    </>
+    </div>
   )
 }
 

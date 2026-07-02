@@ -2,6 +2,7 @@
  import {OrbitControls} from "@react-three/drei";
  import {useMediaQuery} from "react-responsive";
  import {Room} from "./Room.jsx";
+ //import {Laptop} from "./Laptop.jsx"
  import HeroLights from "./HeroLights.jsx";
 
 
@@ -35,6 +36,9 @@
             <Room />
 
         </group>
+
+
+
 
 
     </Canvas>

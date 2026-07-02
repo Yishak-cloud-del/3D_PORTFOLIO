@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0845d380-663e-491c-99f5-d94043ce21d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/public/images/hasab1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/assets/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/assets/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/AnimatedCounter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/AnimatedCounter.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/Button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Button.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/HeroModels/HeroExperience.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/HeroModels/HeroExperience.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/NavBar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/NavBar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/ShowcaseSection.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/ShowcaseSection.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/hero.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/hero.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="171" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HttpClientOnboardingState">{
+  &quot;isOnboardingCommentShown&quot;: true
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0000000000372458" />
+      <entry key="S60" value="1.0000061241749851" />
+      <entry key="M2" value="1.0027604952073879" />
+      <entry key="M5" value="1.1804867618936474" />
+      <entry key="M10" value="2.061770331305558" />
+      <entry key="M15" value="3.564918595898123" />
+      <entry key="M30" value="12.595298256627503" />
+      <entry key="H1" value="44.978582071167416" />
+      <entry key="H2" value="129.71525388506814" />
+      <entry key="H4" value="297.6127135696967" />
+      <entry key="D1" value="854.1006877369405" />
+      <entry key="W1" value="1072.8094378051576" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="1.5521239104666733E-208" />
+      <entry key="S10" value="1.2458426761119565E-104" />
+      <entry key="S30" value="2.3266829010684443E-35" />
+      <entry key="S60" value="5.273410993384461E-18" />
+      <entry key="M2" value="3.339493043179261E-9" />
+      <entry key="M5" value="8.604315313279346E-4" />
+      <entry key="M10" value="0.061629347893380294" />
+      <entry key="M15" value="0.2878023767798678" />
+      <entry key="M30" value="2.6034320609495407" />
+      <entry key="H1" value="19.295114819042116" />
+      <entry key="H2" value="86.22167002105425" />
+      <entry key="H4" value="229.22401493800842" />
+      <entry key="D1" value="639.9205627640116" />
+      <entry key="W1" value="785.013359955616" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9265880618903709" />
+      <entry key="MS500" value="0.9848664428955506" />
+      <entry key="S2" value="0.9961949481330542" />
+      <entry key="S5" value="0.9984762383082793" />
+      <entry key="S10" value="0.9992378287015956" />
+      <entry key="S30" value="0.9997458783653594" />
+      <entry key="S60" value="0.9998790499120965" />
+      <entry key="M2" value="1.0026953445678448" />
+      <entry key="M5" value="1.181226252977986" />
+      <entry key="M10" value="2.1228240817468174" />
+      <entry key="M15" value="3.8513205747427" />
+      <entry key="M30" value="15.192315372098752" />
+      <entry key="H1" value="64.24982725993684" />
+      <entry key="H2" value="215.88560540758075" />
+      <entry key="H4" value="526.771036793365" />
+      <entry key="D1" value="1493.991574120554" />
+      <entry key="W1" value="1857.8176117100127" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Dz2quOCOj6UKYcWoYAN8pHAEEz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;HTTP Request.generated-requests | #1.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pavilion/Desktop/3D_Portfolio/src/assets/assets/public/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2026.1.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pavilion\Desktop\3D_Portfolio\src\assets\assets\public\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pavilion\Desktop\3D_Portfolio\public\images" />
+      <recent name="C:\Users\pavilion\Desktop\3D_Portfolio\src\component\HeroModels" />
+      <recent name="C:\Users\pavilion\Desktop\3D_Portfolio\src\component\Models" />
+      <recent name="C:\Users\pavilion\Desktop\3D_Portfolio\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationStatuses">
+      <map>
+        <entry key="HttpClient.HttpRequestRunConfigurationType">
+          <value>
+            <map>
+              <entry key="generated-requests | #1" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="generated-requests | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" executionIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.generated-requests | #1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.24374.125" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0845d380-663e-491c-99f5-d94043ce21d0" name="Changes" comment="" />
+      <created>1779270771477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779270771477</updated>
+      <workItem from="1779270772624" duration="71000" />
+      <workItem from="1779274341792" duration="9394000" />
+      <workItem from="1779350348951" duration="1630000" />
+      <workItem from="1779355302199" duration="2043000" />
+      <workItem from="1779367419886" duration="8232000" />
+      <workItem from="1779808367652" duration="777000" />
+      <workItem from="1779866542567" duration="9265000" />
+      <workItem from="1780398319642" duration="9635000" />
+      <workItem from="1780408109618" duration="526000" />
+      <workItem from="1781003389814" duration="4646000" />
+      <workItem from="1781086108467" duration="9943000" />
+      <workItem from="1781252330752" duration="5693000" />
+      <workItem from="1781597064564" duration="11734000" />
+      <workItem from="1781679968140" duration="108000" />
+      <workItem from="1781680922994" duration="5999000" />
+      <workItem from="1782642254674" duration="6095000" />
+      <workItem from="1782713597178" duration="9593000" />
+      <workItem from="1782974742464" duration="7053000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
